@@ -1,4 +1,4 @@
-# Slider2 Block
+# Slider Block
 
 **Versión:** 1.0  
 **Requiere:** Moodle 3.11 o inferior  
